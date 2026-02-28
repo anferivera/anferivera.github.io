@@ -1,3 +1,8 @@
-Theme: jekyll-theme-minimal
 title: Computational Physics
-description: anferivera page
+description: anferivera's home page editing
+theme: just-the-docs
+
+url: https://anferivera.github.io/anferivera
+
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/anferivera/anferivera

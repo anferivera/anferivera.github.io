@@ -3,8 +3,7 @@ title: Home
 layout: home
 ---
 
-Física computacional 1
-----------------------
+# Física computacional 1
 
 Tercer curso computacional en el pregrado de física de la UdeA.
 
@@ -12,8 +11,7 @@ Tercer curso computacional en el pregrado de física de la UdeA.
 2. Clases
 3. Referencias
 
-Métodos computacionales
------------------------
+# Métodos computacionales
 
 Segundo curso computacional en el pregrado de física de la UdeA.
 

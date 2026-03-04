@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 description: "Just the Docs Pages."
 permalink: /
-has_children: true
+has_children: false
 ---
 
 1. Cursos de computación en física en la UdeA {: .fs-9 }

@@ -1,6 +1,6 @@
 ---
-title: Fisica computacional 1
-layout: Fisica computacional 1
+title: Home
+layout: Home
 ---
 
 This is the base for the course Fisica comptacional 1 in the university UdeA.

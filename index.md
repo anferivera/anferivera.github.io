@@ -2,6 +2,8 @@
 title: Home
 layout: home
 nav_order: 1
+description: "Just the Docs Pages."
+permalink: /
 ---
 
 >## Física computacional 1

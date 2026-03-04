@@ -7,7 +7,7 @@ permalink: /
 has_children: true
 ---
 
-- ## Física computacional 1
+1. ## Física computacional 1
 
 Tercer curso computacional en el pregrado de física de la UdeA.
 
@@ -16,16 +16,13 @@ Tercer curso computacional en el pregrado de física de la UdeA.
 3. Referencias
 4. tareas
    
-- ## Métodos computacionales
-
+2. ## Métodos computacionales
 
 Segundo curso computacional en el pregrado de física de la UdeA.
 
 1. Programa
 2. Clases
 3. Referencias
-
---- 
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 

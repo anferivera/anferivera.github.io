@@ -1,8 +1,8 @@
 title: Computational physics
-description: A starter template for a Jeykll site using the Just the Docs theme for anferivera's home page!
+description: A computational courses for anferivera's home page!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://anferivera.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template

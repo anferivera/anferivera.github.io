@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 ## Física computacional 1
+{: .d-inline-block }
 
 Tercer curso computacional en el pregrado de física de la UdeA.
 
@@ -12,11 +13,9 @@ Tercer curso computacional en el pregrado de física de la UdeA.
 2. Clases
 3. Referencias
 
----
-nav_order: 2
----
 
 # Métodos computacionales
+{: .d-inline-block }
 
 Segundo curso computacional en el pregrado de física de la UdeA.
 

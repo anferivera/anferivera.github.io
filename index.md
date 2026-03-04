@@ -1,4 +1,11 @@
 ---
+title: Fisica computacional
+layout: Fisica computacional 1
+---
+
+This is the base for the course Fisica comptacional 1 en la UdeA.
+
+---
 title: Home
 layout: home
 ---

@@ -1,5 +1,5 @@
 ---
-title: Home1
+title: Home
 layout: home
 nav_order: 1
 ---
@@ -13,8 +13,6 @@ Tercer curso computacional en el pregrado de física de la UdeA.
 3. Referencias
 
 ---
-title: Home2
-layout: home
 nav_order: 2
 ---
 

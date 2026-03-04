@@ -12,7 +12,13 @@ Tercer curso computacional en el pregrado de física de la UdeA.
 2. Clases
 3. Referencias
 
-#Métodos computacionales
+---
+title: Home2
+layout: home
+nav_order: 2
+---
+
+# Métodos computacionales
 
 Segundo curso computacional en el pregrado de física de la UdeA.
 

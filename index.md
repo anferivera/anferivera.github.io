@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: FC1
+layout: fc1
 ---
 
 Física computacional 1
@@ -23,6 +23,11 @@ Segundo curso computacional en el pregrado de física de la UdeA.
 
 --- 
 
+---
+title: Home
+layout: home
+---
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
@@ -44,9 +49,6 @@ To get started with creating a site, simply:
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
 ----
-
-Fisica computacional 1
-----------------------
 
 Tercer curso computacional en la UdeA.
 

@@ -14,22 +14,22 @@ has_children: true
 
 Tercer curso computacional en el pregrado de física y astronomía de la UdeA.
 
-### Programa
+## Programa
 kkk
-### Clases
+## Clases
 lll
-### Referencias
+## Referencias
 ppp
    
-## Métodos computacionales
+# Métodos computacionales
 
 Segundo curso computacional en el pregrado de física de la UdeA.
 
-1. Programa
-2. Clases
-3. Referencias
+## Programa
+## Clases
+## Referencias
 
-## old
+# old
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 

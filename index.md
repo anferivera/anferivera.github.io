@@ -4,6 +4,7 @@ layout: home
 nav_order: 1
 description: "Just the Docs Pages."
 permalink: /
+has_children: true
 ---
 
 ## Física computacional 1

@@ -11,10 +11,9 @@ has_children: true
 
 Tercer curso computacional en el pregrado de física de la UdeA.
 
-1. Programa
-2. Clases
-3. Referencias
-4. tareass
+* Programa
+* Clases
+* Referencias
    
 2. ## Métodos computacionales { :toc }
 

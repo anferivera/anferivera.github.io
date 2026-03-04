@@ -7,14 +7,17 @@ permalink: /
 has_children: true
 ---
 
-1. Física computacional 1
+1. Física computacional uno
 {:toc}
 
 Tercer curso computacional en el pregrado de física y astronomía de la UdeA.
 
-* Programa
-* Clases
-* Referencias
+### Programa
+kkk
+### Clases
+lll
+### Referencias
+ppp
    
 ## Métodos computacionales
 

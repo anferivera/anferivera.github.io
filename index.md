@@ -7,8 +7,10 @@ permalink: /
 has_children: true
 ---
 
-1. Física computacional uno {: .fs-9 }
+1. Cursos de computación en física en la UdeA {: .fs-9 }
 {:toc}
+
+# Física computacional 1
 
 Tercer curso computacional en el pregrado de física y astronomía de la UdeA.
 

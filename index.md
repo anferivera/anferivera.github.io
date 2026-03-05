@@ -28,10 +28,15 @@ ppp
    
 # Métodos computacionales
 
-Segundo curso computacional en el pregrado de física de la UdeA.
+Segundo curso computacional en el pregrado de física de la UdeA.  [Repositorio GitHub en construcción](https://github.com/anferivera/Metodos_Computacionales){:target="_blank"}.
 
-## Programa
+## Programa oficial del curso
+[Microcurrículo actualizado al 2026-1]
 ## Clases
+Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones){:target="_blank"}.
+   1. Clase 1
+   2. Clase 2
+   3. Clase 3
 ## Referencias
 
 # old

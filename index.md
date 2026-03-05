@@ -12,10 +12,11 @@ has_children: false
 
 # Física computacional 1
 
-Tercer curso computacional en el pregrado de física y astronomía de la UdeA.
+Tercer curso computacional en el pregrado de física de la UdeA [Repositorio GitHub en construcción](https://github.com/anferivera/Fisica_Computacional_1/tree/main).
 
-## Programa
-kkk
+## Programa oficial del curso
+[Microcurrículo actualizado al 2026-1](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Programa/0302151_Fisica_Computacional_I_2026_1%20(1).pdf).
+
 ## Clases
 lll
 ## Referencias

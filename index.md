@@ -24,8 +24,9 @@ Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tre
    3. Clase 3
 
 ## Laboratorios 
-ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Laboratorios)
-   1.1 [Lab1.1: Análisis exploratorio de datos con PANDAS y NUMPY](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_1_pandas.ipynb)
+ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Laboratorios){:target="_blank"}
+   1. [Lab1.1: Análisis exploratorio de datos con PANDAS y NUMPY](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_1_pandas.ipynb){:target="_blank"}
+   2. ..
 
 ## Referencias
 ppp

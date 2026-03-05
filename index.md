@@ -12,13 +12,13 @@ has_children: false
 
 # Física computacional 1
 
-Tercer curso computacional en el pregrado de física de la UdeA. [Repositorio GitHub en construcción](https://github.com/anferivera/Fisica_Computacional_1/tree/main){:target="_blank"}.
+Tercer curso computacional en el pregrado de física de la UdeA. [Repositorio GitHub en construcción](https://github.com/anferivera/Fisica_Computacional_1/tree/main){:target="_blank"}
 
 ## Programa oficial del curso
-[Microcurrículo actualizado al 2026-1](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Programa/0302151_Fisica_Computacional_I_2026_1%20(1).pdf){:target="_blank"}.
+[Microcurrículo actualizado al 2026-1](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Programa/0302151_Fisica_Computacional_I_2026_1%20(1).pdf){:target="_blank"}
 
 ## Clases
-Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones){:target="_blank"}.
+Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones){:target="_blank"}
    1. Clase 1
    2. Clase 2
    3. Clase 3
@@ -28,13 +28,13 @@ ppp
    
 # Métodos computacionales
 
-Segundo curso computacional en el pregrado de física de la UdeA.  [Repositorio GitHub en construcción](https://github.com/anferivera/Metodos_Computacionales){:target="_blank"}.
+Segundo curso computacional en el pregrado de física de la UdeA.  [Repositorio GitHub en construcción](https://github.com/anferivera/Metodos_Computacionales){:target="_blank"}
 
 ## Programa oficial del curso
 [Microcurrículo actualizado al 2026-1]
 ## Clases
-Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones){:target="_blank"}.
-   1. Clase 1
+Ver [Sesiones de clase](https://github.com/anferivera/Metodos_Computacionales/tree/main){:target="_blank"}
+   1. Clase 1: [1_1_overview_python](https://github.com/anferivera/Metodos_Computacionales/blob/main/1_1_overview_python.ipynb){:target="_blank"}
    2. Clase 2
    3. Clase 3
 ## Referencias

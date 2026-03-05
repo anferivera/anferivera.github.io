@@ -15,10 +15,14 @@ has_children: false
 Tercer curso computacional en el pregrado de física de la UdeA. [Repositorio GitHub en construcción](https://github.com/anferivera/Fisica_Computacional_1/tree/main){:target="_blank"}.
 
 ## Programa oficial del curso
-[Microcurrículo actualizado al 2026-1](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Programa/0302151_Fisica_Computacional_I_2026_1%20(1).pdf).
+[Microcurrículo actualizado al 2026-1](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Programa/0302151_Fisica_Computacional_I_2026_1%20(1).pdf){:target="_blank"}.
 
 ## Clases
-lll
+Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones){:target="_blank"}.
+   1. Clase 1
+   2. Clase 2
+   3. Clase 3
+
 ## Referencias
 ppp
    

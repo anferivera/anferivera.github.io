@@ -49,6 +49,8 @@ Ver [Sesiones de clase](https://github.com/anferivera/Metodos_Computacionales/tr
    3. Clase 3
 ## Referencias
 
+---
+
 # old
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.

@@ -29,10 +29,10 @@ ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Labor
    2. ..
 
 ## Referencias
-[Libros:](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Referencias){:target="_blank"}
+[Libros recomendados](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Referencias){:target="_blank"}
 
-### Asistencia
-[Control de asistencia:](https://udeaeduco-my.sharepoint.com/:x:/r/personal/afelipe_rivera_udea_edu_co/_layouts/15/Doc.aspx?sourcedoc=%7BD0EFCCC3-9585-4236-B633-92EF09F6E86E%7D&file=asistencia.xlsx&action=default&mobileredirect=true){:target="_blank"}
+### Asistencia a clases
+[Control de asistencia](https://udeaeduco-my.sharepoint.com/:x:/r/personal/afelipe_rivera_udea_edu_co/_layouts/15/Doc.aspx?sourcedoc=%7BD0EFCCC3-9585-4236-B633-92EF09F6E86E%7D&file=asistencia.xlsx&action=default&mobileredirect=true){:target="_blank"}
    
 # Métodos computacionales
 

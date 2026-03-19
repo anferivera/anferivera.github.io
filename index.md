@@ -19,16 +19,18 @@ Tercer curso computacional en el pregrado de física de la UdeA. [Repositorio Gi
 
 ## Clases
 Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones){:target="_blank"}
-   1. Clase 1
-   2. ...
-   3. ...
+   1. Pandas
+   2. Seabor
+   3. PDE
 
 ## Laboratorios 
 ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Laboratorios){:target="_blank"}
    1. [Lab1_1: Análisis exploratorio de datos con PANDAS y NUMPY](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_1_pandas.ipynb){:target="_blank"}
    2. [Lab1_2: Seaborn](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_2_seaborn.ipynb){:target="_blank"}
-   3. ...
+   3. [Lab1_3: PDF Laplace](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_3_PDE.ipynb){:target="_blank"}
    4. ...
+   5. ...
+   6. ...
 
 ## Referencias
 [Libros recomendados](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Referencias){:target="_blank"}

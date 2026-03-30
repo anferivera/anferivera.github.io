@@ -28,9 +28,10 @@ ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Labor
    1. [Lab1_1: Análisis exploratorio de datos con PANDAS y NUMPY](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_1_pandas.ipynb){:target="_blank"}
    2. [Lab1_2: Seaborn](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_2_seaborn.ipynb){:target="_blank"}
    3. [Lab1_3: PDF Laplace](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_3_PDE.ipynb){:target="_blank"}
-   4. ...
-   5. ...
-   6. ...
+   4. [Lab1_4: PDF Capacitor](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_4_PDE_capacitor.ipynb){:target="_blank"}
+   5. [Lab1_5: PDF Diffsion](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_5_PDE_diffusion.ipynb){:target="_blank"}
+   6. [FEM]()
+   7. ...
 
 ## Referencias
 [Libros recomendados](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Referencias){:target="_blank"}

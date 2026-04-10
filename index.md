@@ -13,8 +13,8 @@ has_children: false
 # Física computacional 1
 
 Tercer curso computacional en el pregrado de física de la UdeA. [Repositorio GitHub en construcción](https://github.com/anferivera/Fisica_Computacional_1/tree/main){:target="_blank"}
-En este curso abordamos una serie de técnicas numéricas para resolver algunas EDP de la física (física matemática)
-   1. La ecuación de **Laplace**
+En este curso abordamos una serie de técnicas numéricas para resolver algunas EDP de la física (física matemática) con condiciones de frontera.
+   1. La ecuación de **Laplace** $\nabla u(\vec{r})=0$
    2. La ecuación de **Poisson**
    3. La ecuación de **Onda**
    4. La ecuación de **difusión**

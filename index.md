@@ -15,17 +15,25 @@ has_children: false
 Tercer curso computacional en el pregrado de física de la UdeA. [Repositorio GitHub en construcción](https://github.com/anferivera/Fisica_Computacional_1/tree/main){:target="_blank"}
 En este curso abordamos una serie de técnicas numéricas para resolver algunas EDP de la física (física matemática) con condiciones de frontera.
    1. La ecuación de **Laplace**
+      
       $$\nabla u(\vec{r})=0$$
-   2. La ecuación de **Poisson** $$\nabla u(\vec{r})=-4\pi\rho(\vec{r})$$
-   3. La ecuación de **Onda**
-   4. La ecuación de **difusión**
-   5. La ecuación de **Schrödinger**
-   6. La ecuación de **Navier Stokes**
+      
+   3. La ecuación de **Poisson**
+     
+      $$\nabla u(\vec{r})=-4\pi\rho(\vec{r})$$
+      
+   6. La ecuación de **Onda**
+      
+      $$\nabla u(\vec{r},t)=\dfrac{1}{v^2}\drac{\partial^2}{\partial t^2}u(\vec{r},t)$$
+      
+   9. La ecuación de **difusión**
+   10. La ecuación de **Schrödinger**
+   11. La ecuación de **Navier Stokes**
 Tambien abordamos las técincas numéricas involucradas en problemas como:      
-   7. Análisis de Fourier
-   8. Métodos Montecarlo-Cadenas de Marcok
-   9. Computación cuántica en python
-   10. Intro a **c/c++**
+   12. Análisis de Fourier
+   13. Métodos Montecarlo-Cadenas de Marcok
+   14. Computación cuántica en python
+   15. Intro a **c/c++**
 
 ## Programa oficial del curso
 [Microcurrículo actualizado al 2026-1](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Programa/0302151_Fisica_Computacional_I_2026_1%20(1).pdf){:target="_blank"}

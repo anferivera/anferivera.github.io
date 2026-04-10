@@ -16,7 +16,7 @@ Tercer curso computacional en el pregrado de física de la UdeA. [Repositorio Gi
 En este curso abordamos una serie de técnicas numéricas para resolver algunas EDP de la física (física matemática) con condiciones de frontera.
    1. La ecuación de **Laplace**
       $$\nabla u(\vec{r})=0$$
-   2. La ecuación de **Poisson**
+   2. La ecuación de **Poisson** $$\nabla u(\vec{r})=-4\pi\rho(\vec{r})$$
    3. La ecuación de **Onda**
    4. La ecuación de **difusión**
    5. La ecuación de **Schrödinger**

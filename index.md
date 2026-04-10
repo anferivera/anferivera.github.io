@@ -32,7 +32,7 @@ En este curso abordamos una serie de técnicas numéricas para resolver algunas 
    
    11. La ecuación de **Schrödinger**
 
-      $$\dfrac{h^2}{2\,m}\nabla^2 u(\vec{r}) + V\,u(\vec{r}) = E\,u(\vec{r})$$
+      $$\dfrac{h^2}{2 m}\nabla^2 u(r) + V u(r) = E u(r)$$
       
    13. La ecuación de **Navier Stokes**
        

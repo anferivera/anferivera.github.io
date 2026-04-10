@@ -10,5 +10,4 @@ aux_links:
 # LaTeX rendering via "katex" (default) or "mathjax"
 latex: katex
 
-# Options: "mathjax", "katex", or "none"
-latex: mathjax
+math: katex

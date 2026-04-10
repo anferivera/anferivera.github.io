@@ -18,22 +18,23 @@ En este curso abordamos una serie de técnicas numéricas para resolver algunas 
       
       $$\nabla^2 u(\vec{r})=0$$
       
-   3. La ecuación de **Poisson**
+   2. La ecuación de **Poisson**
      
       $$\nabla^2 u(\vec{r})=-\dfrac{\rho(\vec{r})}{\epsilon}$$
       
-   6. La ecuación de **Onda**
+   3. La ecuación de **Onda**
       
       $$\nabla^2 u(\vec{r},t)=\dfrac{1}{v^2}\dfrac{\partial^2}{\partial t^2}u(\vec{r},t)$$
       
-   9. La ecuación de **difusión**
+   4. La ecuación de **difusión**
 
       $$\nabla^2 u(\vec{r},t)=\dfrac{1}{\alpha}\dfrac{\partial}{\partial t}u(\vec{r},t)$$
    
-   11. La ecuación de **Schrödinger**
-      $$\dfrac{\hbar^2}{2 m}\nabla^2 \Psi(\vec{r},t) + V\,\Psi(\vec{r},t) = i\dfrac{\partial}{\partial t}\Psi(\vec{r},t)$$
+   5. La ecuación de **Schrödinger**
       
-   13. La ecuación de **Navier Stokes**
+      $$\dfrac{\hbar^2}{2 m}\nabla^2 \Psi(\vec{r},t) + V\Psi(\vec{r},t) = i\dfrac{\partial}{\partial t}\Psi(\vec{r},t)$$
+      
+   6. La ecuación de **Navier Stokes**
        
 Tambien abordamos las técnicas numéricas aplicables en:      
    1. Análisis de Fourier

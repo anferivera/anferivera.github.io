@@ -20,20 +20,26 @@ En este curso abordamos una serie de técnicas numéricas para resolver algunas 
       
    3. La ecuación de **Poisson**
      
-      $$\nabla u(\vec{r})=-4\pi\rho(\vec{r})$$
+      $$\nabla u(\vec{r})=-\dfrac{\rho(\vec{r})}{\epsilon}$$
       
    6. La ecuación de **Onda**
       
-      $$\nabla u(\vec{r},t)=\dfrac{1}{v^2}\drac{\partial^2}{\partial t^2}u(\vec{r},t)$$
+      $$\nabla u(\vec{r},t)=\dfrac{1}{v^2}\dfrac{\partial^2}{\partial t^2}u(\vec{r},t)$$
       
    9. La ecuación de **difusión**
-   10. La ecuación de **Schrödinger**
-   11. La ecuación de **Navier Stokes**
+
+      $$\nabla u(\vec{r},t)=\dfrac{1}{\alpha}\dfrac{\partial}{\partial t}u(\vec{r},t)$$
+   
+   11. La ecuación de **Schrödinger**
+
+      $$\dfrac{\hbar^2}{2\,m}\nabla \Psi(\vec{r})+V\,u(\vec{r})=E\,\Psi(\vec{r})$$
+      
+   13. La ecuación de **Navier Stokes**
 Tambien abordamos las técincas numéricas involucradas en problemas como:      
-   12. Análisis de Fourier
-   13. Métodos Montecarlo-Cadenas de Marcok
-   14. Computación cuántica en python
-   15. Intro a **c/c++**
+   14. Análisis de Fourier
+   15. Métodos Montecarlo-Cadenas de Marcok
+   16. Computación cuántica en python
+   17. Intro a **c/c++**
 
 ## Programa oficial del curso
 [Microcurrículo actualizado al 2026-1](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Programa/0302151_Fisica_Computacional_I_2026_1%20(1).pdf){:target="_blank"}

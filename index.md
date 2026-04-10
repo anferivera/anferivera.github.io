@@ -58,12 +58,12 @@ Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tre
 ## Laboratorios 
 ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Laboratorios){:target="_blank"}
       * Homework.
-   1. [Lab 1: Análisis exploratorio de datos con PANDAS y NUMPY](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_1_pandas.ipynb){:target="_blank"}
-   2. [Lab 2: Seaborn](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_2_seaborn.ipynb){:target="_blank"}
-   3. [Lab 3: Diferencias finitas: DFM-Laplace](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_3_PDE.ipynb){:target="_blank"}
-   4. [Lab 4: Diferencias finitas: DFM-Capacitor](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_4_PDE_capacitor.ipynb){:target="_blank"}
-   5. [Lab 5: Diferencias finitas: DFM-Diffusion](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_5_PDE_diffusion.ipynb){:target="_blank"}
-   6. [Lab 6: Elementos finitos-FEM]()
+   1. [Lab 1: Análisis exploratorio de datos con PANDAS y NUMPY](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_1_pandas.ipynb){:target="_blank"}
+   2. [Lab 2: Seaborn](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_2_seaborn.ipynb){:target="_blank"}
+   3. [Lab 3: Diferencias finitas: DFM-Laplace](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_3_FDM-Laplace.ipynb){:target="_blank"}
+   4. [Lab 4: Diferencias finitas: DFM-Capacitor](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_4_FDM_capacitor.ipynb){:target="_blank"}
+   5. [Lab 5: Diferencias finitas: DFM-Diffusion](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_6_FEM_1D.ipynb){:target="_blank"}
+   6. [Lab 6: Elementos finitos-FEM](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_6_FEM_1D.ipynb)
    7. ...
 
 ## Referencias

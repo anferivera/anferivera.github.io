@@ -31,8 +31,7 @@ En este curso abordamos una serie de técnicas numéricas para resolver algunas 
       $$\nabla^2 u(\vec{r},t)=\dfrac{1}{\alpha}\dfrac{\partial}{\partial t}u(\vec{r},t)$$
    
    11. La ecuación de **Schrödinger**
-
-      $$\nabla^2 u(r) + V u(r) = E u(r)$$
+      $$\nabla^2 u(\vec{r},t)=\dfrac{1}{\alpha}\dfrac{\partial}{\partial t}u(\vec{r},t)$$
       
    13. La ecuación de **Navier Stokes**
        

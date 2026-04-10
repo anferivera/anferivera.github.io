@@ -19,18 +19,22 @@ Tercer curso computacional en el pregrado de física de la UdeA. [Repositorio Gi
 
 ## Clases
 Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones){:target="_blank"}
-   1. Pandas
-   2. Seabor
-   3. PDE
+   1. [Pandas](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/pandas){:target="_blank"}
+   2. [Seabor](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/seaborn){:target="_blank"}
+   3. [PDE](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/PDE){:target="_blank"}
+      * Finite difference method (FDM): solves partial differential equations (PDEs) by discretizing the continuous domain into a grid and replacing derivatives with algebraic finite difference approximations.
+      * Finite element method (FEM): It is a numerical technique for solving complex engineering and physics problems by breaking a large, intricate system into smaller, simpler "finite elements". It solves differential equations (the "weak form") across these elements to predict behavior like stress, heat transfer, or fluid flow. 
+   4. [Fourier](){:target="_blank"}
+   5. ...
 
 ## Laboratorios 
 ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Laboratorios){:target="_blank"}
    1. [Lab1_1: Análisis exploratorio de datos con PANDAS y NUMPY](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_1_pandas.ipynb){:target="_blank"}
-   2. [Lab1_2: Seaborn](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_2_seaborn.ipynb){:target="_blank"}
-   3. [Lab1_3: PDF Laplace](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_3_PDE.ipynb){:target="_blank"}
-   4. [Lab1_4: PDF Capacitor](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_4_PDE_capacitor.ipynb){:target="_blank"}
-   5. [Lab1_5: PDF Diffusion](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_5_PDE_diffusion.ipynb){:target="_blank"}
-   6. [FEM]()
+   2. [Lab2: Seaborn](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_2_seaborn.ipynb){:target="_blank"}
+   3. [Lab3: Diferencias finitas: DFM-Laplace](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_3_PDE.ipynb){:target="_blank"}
+   4. [Lab4: Diferencias finitas: DFM-Capacitor](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_4_PDE_capacitor.ipynb){:target="_blank"}
+   5. [Lab5: Diferencias finitas: DFM-Diffusion](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab1_5_PDE_diffusion.ipynb){:target="_blank"}
+   6. [Lab6: Elementos finitos-FEM]()
    7. ...
 
 ## Referencias

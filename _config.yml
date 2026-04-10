@@ -6,3 +6,6 @@ url: https://anferivera.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# LaTeX rendering via "katex" (default) or "mathjax"
+latex: katex

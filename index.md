@@ -32,14 +32,15 @@ En este curso abordamos una serie de técnicas numéricas para resolver algunas 
    
    11. La ecuación de **Schrödinger**
 
-      $$\dfrac{\hbar^2}{2\,m}\nabla^2 u(\vec{r})+V\,u(\vec{r})=E\,u(\vec{r})$$
+      $$\dfrac{h^2}{2\,m}\nabla^2 u(\vec{r}) + V\,u(\vec{r}) = E\,u(\vec{r})$$
       
    13. La ecuación de **Navier Stokes**
-Tambien abordamos las técincas numéricas involucradas en problemas como:      
-   14. Análisis de Fourier
-   15. Métodos Montecarlo-Cadenas de Marcok
-   16. Computación cuántica en python
-   17. Intro a **c/c++**
+       
+Tambien abordamos las técnicas numéricas aplicables en:      
+   1. Análisis de Fourier
+   2. Métodos Montecarlo-Cadenas de Marcok
+   3. Computación cuántica
+   4. Introducción a **c/c++**
 
 ## Programa oficial del curso
 [Microcurrículo actualizado al 2026-1](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Programa/0302151_Fisica_Computacional_I_2026_1%20(1).pdf){:target="_blank"}

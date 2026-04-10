@@ -32,7 +32,7 @@ En este curso abordamos una serie de técnicas numéricas para resolver algunas 
    
    5. La ecuación de **Schrödinger**
       
-      $$\dfrac{\hbar^2}{2 m}\nabla^2 \Psi(\vec{r},t) + V\Psi(\vec{r},t) = i\dfrac{\partial}{\partial t}\Psi(\vec{r},t)$$
+      $$-\dfrac{\hbar^2}{2 m}\nabla^2 \Psi(\vec{r},t) + V\Psi(\vec{r},t) = i\dfrac{\partial}{\partial t}\Psi(\vec{r},t)$$
       
    6. La ecuación de **Navier Stokes**
        

@@ -16,23 +16,23 @@ Tercer curso computacional en el pregrado de física de la UdeA. [Repositorio Gi
 En este curso abordamos una serie de técnicas numéricas para resolver algunas EDP de la física (física matemática) con condiciones de frontera.
    1. La ecuación de **Laplace**
       
-      $$\nabla u(\vec{r})=0$$
+      $$\nabla^2 u(\vec{r})=0$$
       
    3. La ecuación de **Poisson**
      
-      $$\nabla u(\vec{r})=-\dfrac{\rho(\vec{r})}{\epsilon}$$
+      $$\nabla^2 u(\vec{r})=-\dfrac{\rho(\vec{r})}{\epsilon}$$
       
    6. La ecuación de **Onda**
       
-      $$\nabla u(\vec{r},t)=\dfrac{1}{v^2}\dfrac{\partial^2}{\partial t^2}u(\vec{r},t)$$
+      $$\nabla^2 u(\vec{r},t)=\dfrac{1}{v^2}\dfrac{\partial^2}{\partial t^2}u(\vec{r},t)$$
       
    9. La ecuación de **difusión**
 
-      $$\nabla u(\vec{r},t)=\dfrac{1}{\alpha}\dfrac{\partial}{\partial t}u(\vec{r},t)$$
+      $$\nabla^2 u(\vec{r},t)=\dfrac{1}{\alpha}\dfrac{\partial}{\partial t}u(\vec{r},t)$$
    
    11. La ecuación de **Schrödinger**
 
-      $$\dfrac{\hbar^2}{2\,m}\nabla \Psi(\vec{r})+V\,u(\vec{r})=E\,\Psi(\vec{r})$$
+      $$\dfrac{\hbar^2}{2\,m}\nabla^2 u(\vec{r})+V\,u(\vec{r})=E\,u(\vec{r})$$
       
    13. La ecuación de **Navier Stokes**
 Tambien abordamos las técincas numéricas involucradas en problemas como:      

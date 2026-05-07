@@ -53,7 +53,7 @@ Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tre
       * **Finite difference method (FDM)**: solves partial differential equations (PDEs) by discretizing the continuous domain into a grid and replacing derivatives with algebraic finite difference approximations.
       * **Finite element method (FEM)**: It is a numerical technique for solving complex engineering and physics problems by breaking a large, intricate system into smaller, simpler "finite elements". It solves differential equations (the "weak form") across these elements to predict behavior like stress, heat transfer, or fluid flow. 
    4. [Fourier](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/Fourier){:target="_blank"}
-      * The Fourier Transform **FT** is a mathematical tool used to convert a signal from the time (or spatial) domain into the frequency domain. It shows what frequencies are present in a signal and how strong they are. Reveals hidden frequency information. Simplifies analysis of signals and systems. Helps filter noise, compress data, and analyze patterns. In this notebook we did an application to signal processing (audio, image, video).
+      * The Fourier Transform (**FT**) is a mathematical tool used to convert a signal from the time (or spatial) domain into the frequency domain. It shows what frequencies are present in a signal and how strong they are. Reveals hidden frequency information. Simplifies analysis of signals and systems. Helps filter noise, compress data, and analyze patterns. In this notebook we did an application to signal processing (audio, image, video).
    6. ...
 
 ## Laboratorios 
@@ -64,8 +64,12 @@ ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Labor
    3. [Lab 3: Diferencias finitas: DFM-Laplace](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_3_FDM-Laplace.ipynb){:target="_blank"}
    4. [Lab 4: Diferencias finitas: DFM-Capacitor](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_4_FDM_capacitor.ipynb){:target="_blank"}
    5. [Lab 5: Diferencias finitas: DFM-Diffusion](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_6_FEM_1D.ipynb){:target="_blank"}
-   6. [Lab 6: Elementos finitos-FEM](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_6_FEM_1D.ipynb){:target="_blank"}
-   7. ...
+   6. [Lab 6: Elementos finitos: FEM-1D](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_6_FEM_1D.ipynb){:target="_blank"}
+   7. [Lab 7: Transformada de Fourier: FFT-sonido](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_7_FFT.ipynb){:target="_blank"}
+   8. [Lab 8: MCMC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_8_FMCMC.ipynb){:target="_blank"}
+   9. [Lab 9: QC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_9_QC.ipynb){:target="_blank"}
+   10. [Lab 10: C++](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_10_c++.ipynb){:target="_blank"}
+   11. ... 
 
 ## Referencias
 [Libros recomendados](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Referencias){:target="_blank"}

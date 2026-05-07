@@ -52,8 +52,9 @@ Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tre
    3. [PDE](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/PDE){:target="_blank"}
       * **Finite difference method (FDM)**: solves partial differential equations (PDEs) by discretizing the continuous domain into a grid and replacing derivatives with algebraic finite difference approximations.
       * **Finite element method (FEM)**: It is a numerical technique for solving complex engineering and physics problems by breaking a large, intricate system into smaller, simpler "finite elements". It solves differential equations (the "weak form") across these elements to predict behavior like stress, heat transfer, or fluid flow. 
-   4. [Fourier](){:target="_blank"}
-   5. ...
+   4. [Fourier](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/Fourier){:target="_blank"}
+      * The Fourier Transform **FT** is a mathematical tool used to convert a signal from the time (or spatial) domain into the frequency domain. It shows what frequencies are present in a signal and how strong they are. Reveals hidden frequency information. Simplifies analysis of signals and systems. Helps filter noise, compress data, and analyze patterns. In this notebook we did an application to signal processing (audio, image, video).
+   6. ...
 
 ## Laboratorios 
 ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Laboratorios){:target="_blank"}

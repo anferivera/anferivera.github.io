@@ -54,7 +54,16 @@ Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tre
       * **Finite element method (FEM)**: It is a numerical technique for solving complex engineering and physics problems by breaking a large, intricate system into smaller, simpler "finite elements". It solves differential equations (the "weak form") across these elements to predict behavior like stress, heat transfer, or fluid flow. 
    4. [Fourier](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/Fourier){:target="_blank"}
       * The Fourier Transform (**FT**) is a mathematical tool used to convert a signal from the time (or spatial) domain into the frequency domain. It shows what frequencies are present in a signal and how strong they are. Reveals hidden frequency information. Simplifies analysis of signals and systems. Helps filter noise, compress data, and analyze patterns. In this notebook we did an application to signal processing (audio, image, video).
-   6. ...
+   6. [MC](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/MC){:target="_blank"}
+      * Monte Carlo (**MC**)  are computational algorithms based on repeated random sampling for obtaining numerical results. `use randomness to solve deterministic problems`. Monte Carlo methods are mainly used in:
+         1. Numerical integration
+         2. Optimization (**MC Markov chain**)
+         3. Non-uniform random variate generation
+   7. [QC](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/QC){:target="_blank"}
+      * Quantum computing (**QC**) is ...
+   8. [c++](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/c++){:target="_blank"}
+      * c++ lenguaje (**c++**) is ...
+   9. ...
 
 ## Laboratorios 
 ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Laboratorios){:target="_blank"}
@@ -68,7 +77,7 @@ ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Labor
    7. [Lab 7: Transformada de Fourier: FFT-sonido](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_7_FFT.ipynb){:target="_blank"}
    8. [Lab 8: MCMC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_8_MCMC.ipynb){:target="_blank"}
    9. [Lab 9: QC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_9_QC.ipynb){:target="_blank"}
-   10. [Lab 10: C++](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_10_c++.ipynb){:target="_blank"}
+   10. [Lab 10: C++](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_10_cpp.ipynb){:target="_blank"}
    11. ... 
 
 ## Referencias

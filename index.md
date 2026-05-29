@@ -72,7 +72,7 @@ ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Labor
    2. [Lab 2: Seaborn](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_2_seaborn.ipynb){:target="_blank"}
    3. [Lab 3: Diferencias finitas: DFM-Laplace](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_3_FDM-Laplace.ipynb){:target="_blank"}
    4. [Lab 4: Diferencias finitas: DFM-Capacitor](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_4_FDM_capacitor.ipynb){:target="_blank"}
-   5. [Lab 5: Diferencias finitas: DFM-Diffusion](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_5_FEM_difussion.ipynb){:target="_blank"}
+   5. [Lab 5: Diferencias finitas: DFM-Diffusion](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_5_FDM_difussion.ipynb){:target="_blank"}
    6. [Lab 6: Elementos finitos: FEM-1D](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_6_FEM_1D.ipynb){:target="_blank"}
    7. [Lab 7: Transformada de Fourier: FFT-sonido](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_7_FFT.ipynb){:target="_blank"}
    8. [Lab 8: MCMC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_8_MCMC.ipynb){:target="_blank"}

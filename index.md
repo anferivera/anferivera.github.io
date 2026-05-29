@@ -55,9 +55,9 @@ Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tre
    4. [Fourier](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/Fourier){:target="_blank"}
       * The Fourier Transform (**FT**) is a mathematical tool used to convert a signal from the time (or spatial) domain into the frequency domain. It shows what frequencies are present in a signal and how strong they are. Reveals hidden frequency information. Simplifies analysis of signals and systems. Helps filter noise, compress data, and analyze patterns. In this notebook we did an application to signal processing (audio, image, video).
    6. [MC](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/MC){:target="_blank"}
-      * Monte Carlo (**MC**)  are computational algorithms based on repeated random sampling for obtaining numerical results. `use randomness to solve deterministic problems`. Monte Carlo methods are mainly used in:
+      * Monte Carlo (**MC**)  is computational algorithms based on repeated random sampling for obtaining numerical results. `use randomness to solve deterministic problems`. Monte Carlo methods are mainly used in:
          1. Numerical integration
-         2. Optimization (**MC Markov chain**)
+         2. Optimization (**Markov Chain (MC)**)
          3. Non-uniform random variate generation
    7. [QC](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/QC){:target="_blank"}
       * Quantum computing (**QC**) is ...

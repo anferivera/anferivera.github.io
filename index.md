@@ -60,10 +60,10 @@ Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tre
          2. Optimization (**Markov Chain (MC)**)
          3. Non-uniform random variate generation
    7. [QC](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/QC){:target="_blank"}
-      * Quantum computing (**QC**) is ...
+      * Quantum computing (**QC**) is a theoretical area based on a computer that exploits quantum phenomena like superposition and entanglement. Its fundamental unit is the `qubit` instead of the classical `bits` units of 0,1. 
+      * A simple `quantum circuit` is a collection of `qubits` and a list of instructions that act on those qubits.  In this section we learn `Qiskit` which is a software development kit created by `IBM` for working with quantum computers at the circuit, pulse, and algorithm levels. It provides tools for creating and manipulating quantum programs and **running them on prototype quantum devices in IBM Quantum Experience or on simulators on a local computer**.
    8. [c++](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/c++){:target="_blank"}
-      * c++ lenguaje (**c++**) is ...
-   9. ...
+      * (**c++**) lenguaje is a programming language designed in 1979 by Bjarne Stroustrup. C++ is a compiled, general-purpose programming language designed as an extension of the C language with support for object-oriented programming.It is known for its high performance, speed, and detailed control of hardware and memory, making it ideal for operating systems, video games, and critical software. 
 
 ## Laboratorios 
 ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Laboratorios){:target="_blank"}
@@ -75,10 +75,9 @@ ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Labor
    5. [Lab 5: Diferencias finitas: DFM-Diffusion](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_5_FDM_difussion.ipynb){:target="_blank"}
    6. [Lab 6: Elementos finitos: FEM-1D](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_6_FEM_1D.ipynb){:target="_blank"}
    7. [Lab 7: Transformada de Fourier: FFT-sonido](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_7_FFT.ipynb){:target="_blank"}
-   8. [Lab 8: MCMC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_8_MCMC.ipynb){:target="_blank"}
-   9. [Lab 9: QC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_9_QC.ipynb){:target="_blank"}
+   8. [Lab 8: Monte Carlo MCMC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_8_MCMC.ipynb){:target="_blank"}
+   9. [Lab 9: Quantum Coputing QC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_9_QC.ipynb){:target="_blank"}
    10. [Lab 10: C++](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_10_cpp.ipynb){:target="_blank"}
-   11. ... 
 
 ## Referencias
 [Libros recomendados](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Referencias){:target="_blank"}

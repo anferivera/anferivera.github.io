@@ -77,7 +77,7 @@ ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Labor
    6. [Lab 6: Elementos finitos: FEM-1D](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_6_FEM_1D.ipynb){:target="_blank"}
    7. [Lab 7: Transformada de Fourier: FFT-sonido](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_7_FFT.ipynb){:target="_blank"}
    8. [Lab 8: Monte Carlo MCMC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_8_MCMC.ipynb){:target="_blank"}
-   9. [Lab 9: Quantum Coputing QC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_9_QC.ipynb){:target="_blank"}
+   9. [Lab 9: Quantum Computing QC](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_9_QC.ipynb){:target="_blank"}
    10. [Lab 10: C++](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Laboratorios/Lab_10_cpp.ipynb){:target="_blank"}
 
 ## Referencias

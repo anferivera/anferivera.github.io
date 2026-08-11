@@ -39,11 +39,13 @@ Tercer curso computacional en el pregrado de física de la UdeA.
       
       6. La ecuación de **Navier Stokes**
        
-2. También abordamos la Físisca computacionales numéricas aplicables en:      
-   1. Análisis de Fourier
-   2. Métodos Montecarlo-Cadenas de Marcov
-   3. Computación cuántica
-   4. Introducción a **c/c++**
+2. Abordamos la Física computacional del Análisis de Fourier
+
+3. Métodos Montecarlo y Cadenas de Marcov
+
+4. Introducción a la computación cuántica
+
+5. Introducción a **c/c++**
 
 ## Programa oficial del curso
 [Microcurrículo actualizado al 2026-1](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Programa/0302151_Fisica_Computacional_I_20262.pdf){:target="_blank"}

@@ -17,29 +17,29 @@ Tercer curso computacional en el pregrado de física de la UdeA.
 
    1. En este curso abordamos una serie de técnicas numéricas para resolver algunas          Ecuaciones Diferenciales Parciales (EDP) de la física (física matemática) con condiciones de frontera. Por ejemplo:
       
-   1.1 La ecuación de **Laplace**
+      1. La ecuación de **Laplace**
       
-      $$\nabla^2 u(\vec{r})=0$$
+         $$\nabla^2 u(\vec{r})=0$$
       
-   1.2 La ecuación de **Poisson**
+      2. La ecuación de **Poisson**
      
-      $$\nabla^2 u(\vec{r})=-\dfrac{\rho(\vec{r})}{\epsilon}$$
+         $$\nabla^2 u(\vec{r})=-\dfrac{\rho(\vec{r})}{\epsilon}$$
       
-   1.3 La ecuación de **difusión**
+      3. La ecuación de **difusión**
 
-      $$\nabla^2 u(\vec{r},t)=\dfrac{1}{\alpha}\dfrac{\partial}{\partial t}u(\vec{r},t)$$
+         $$\nabla^2 u(\vec{r},t)=\dfrac{1}{\alpha}\dfrac{\partial}{\partial t}u(\vec{r},t)$$
       
-   1.4 La ecuación de **Onda**
+      4. La ecuación de **Onda**
       
-      $$\nabla^2 u(\vec{r},t)=\dfrac{1}{v^2}\dfrac{\partial^2}{\partial t^2}u(\vec{r},t)$$
+         $$\nabla^2 u(\vec{r},t)=\dfrac{1}{v^2}\dfrac{\partial^2}{\partial t^2}u(\vec{r},t)$$
    
-   1.5 La ecuación de **Schrödinger**
+      5. La ecuación de **Schrödinger**
       
-      $$-\dfrac{\hbar^2}{2 m}\nabla^2 \Psi(\vec{r},t) + V\Psi(\vec{r},t) = i\dfrac{\partial}{\partial t}\Psi(\vec{r},t)$$
+         $$-\dfrac{\hbar^2}{2 m}\nabla^2 \Psi(\vec{r},t) + V\Psi(\vec{r},t) = i\dfrac{\partial}{\partial t}\Psi(\vec{r},t)$$
       
-   1.6 La ecuación de **Navier Stokes**
+      6. La ecuación de **Navier Stokes**
        
-También abordamos la Físisca computacionales numéricas aplicables en:      
+2. También abordamos la Físisca computacionales numéricas aplicables en:      
    1. Análisis de Fourier
    2. Métodos Montecarlo-Cadenas de Marcov
    3. Computación cuántica

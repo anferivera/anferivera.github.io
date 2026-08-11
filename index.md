@@ -50,7 +50,7 @@ Tercer curso computacional en el pregrado de física de la UdeA.
 ## Programa oficial del curso
 [Microcurrículo actualizado al 2026-2](https://github.com/anferivera/Fisica_Computacional_1/blob/main/Programa/0302151_Fisica_Computacional_I_20262.pdf){:target="_blank"}
 
-## Clases
+## Classes
 Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones){:target="_blank"}
    1. [Pandas](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/pandas){:target="_blank"} Pandas is the premier Python Data Analysis Library, designed for fast, powerful, and flexible manipulation of "relational" or "labeled" data. It is a foundational tool in data science, finance, and machine learning, providing structures that function similarly to Excel spreadsheets or SQL tables.
    2. [Seabor](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/seaborn){:target="_blank"} Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative **statistical graphics**.
@@ -89,7 +89,7 @@ ver: [Labs](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Labor
 [Libros recomendados](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Referencias){:target="_blank"}
 
 ### Asistencia a clases
-[Control de asistencia]([https://udeaeduco-my.sharepoint.com/:x:/r/personal/afelipe_rivera_udea_edu_co/_layouts/15/Doc.aspx?sourcedoc=%7BD0EFCCC3-9585-4236-B633-92EF09F6E86E%7D&file=asistencia.xlsx&action=default&mobileredirect=true](https://udeaeduco-my.sharepoint.com/:x:/g/personal/afelipe_rivera_udea_edu_co/IQBtgkKBpHLjQaSM1g7flpOeAdEBaPzl_3SHVCUw9YW40zw?e=nUUbyH)){:target="_blank"}
+[Control de asistencia]([[https://udeaeduco-my.sharepoint.com/:x:/r/personal/afelipe_rivera_udea_edu_co/_layouts/15/Doc.aspx?sourcedoc=%7BD0EFCCC3-9585-4236-B633-92EF09F6E86E%7D&file=asistencia.xlsx&action=default&mobileredirect=true](https://udeaeduco-my.sharepoint.com/:x:/g/personal/afelipe_rivera_udea_edu_co/IQBtgkKBpHLjQaSM1g7flpOeAdEBaPzl_3SHVCUw9YW40zw?e=nUUbyH)](https://udeaeduco-my.sharepoint.com/:x:/g/personal/afelipe_rivera_udea_edu_co/IQBtgkKBpHLjQaSM1g7flpOeARnsZRe3P3_renLn3WY7a3s?e=8DnwJi)){:target="_blank"}
 
 ---
    

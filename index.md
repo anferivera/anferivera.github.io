@@ -52,23 +52,25 @@ Tercer curso computacional en el pregrado de física de la UdeA.
 
 ## Classes
 Ver [Sesiones de clase](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones){:target="_blank"}
-   1. [Pandas](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/pandas){:target="_blank"} Pandas is the premier Python Data Analysis Library, designed for fast, powerful, and flexible manipulation of "relational" or "labeled" data. It is a foundational tool in data science, finance, and machine learning, providing structures that function similarly to Excel spreadsheets or SQL tables.
-   2. [Seabor](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/seaborn){:target="_blank"} Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative **statistical graphics**.
-   3. [PDE-FDM](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/PDE){:target="_blank"}
+
+   1. [git](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/intro_git){:target="_blank"} Git is a widely-used, open-source distributed version control system (DVCS) that tracks changes in files and code during software development. It allows multiple people to collaborate on a project, manage different versions of files, and recover earlier versions at any time. 
+   2. [Pandas](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/pandas){:target="_blank"} Pandas is the premier Python Data Analysis Library, designed for fast, powerful, and flexible manipulation of "relational" or "labeled" data. It is a foundational tool in data science, finance, and machine learning, providing structures that function similarly to Excel spreadsheets or SQL tables.
+   3. [Seabor](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/seaborn){:target="_blank"} Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative **statistical graphics**.
+   4. [PDE-FDM](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/PDE){:target="_blank"}
       * **Finite difference method (FDM)**: solves partial differential equations (PDEs) by discretizing the continuous domain into a grid and replacing derivatives with algebraic finite difference approximations.
-   4. [PDE-FEM](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/PDE){:target="_blank"}
+   5. [PDE-FEM](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/PDE){:target="_blank"}
       * **Finite element method (FEM)**: It is a numerical technique for solving complex engineering and physics problems by breaking a large, intricate system into smaller, simpler "finite elements". It solves differential equations (the "weak form") across these elements to predict behavior like stress, heat transfer, or fluid flow. 
-   5. [Fourier](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/Fourier){:target="_blank"}
+   6. [Fourier](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/Fourier){:target="_blank"}
       * The Fourier Transform (**FT**) is a mathematical tool used to convert a signal from the time (or spatial) domain into the frequency domain. It shows what frequencies are present in a signal and how strong they are. Reveals hidden frequency information. Simplifies analysis of signals and systems. Helps filter noise, compress data, and analyze patterns. In this notebook we did an application to signal processing (audio, image, video).
-   6. [MC](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/MC){:target="_blank"}
+   7. [MC](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/MC){:target="_blank"}
       * Monte Carlo (**MC**)  is computational algorithms based on repeated random sampling for obtaining numerical results. `use randomness to solve deterministic problems`. Monte Carlo methods are mainly used in:
          1. Numerical integration
          2. Optimization (**Markov Chain (MC)**)
          3. Non-uniform random variate generation
-   7. [QC](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/QC){:target="_blank"}
+   8. [QC](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/QC){:target="_blank"}
       * Quantum computing (**QC**) is a theoretical area based on a computer that exploits quantum phenomena like superposition and entanglement. Its fundamental unit is the `qubit` instead of the classical `bits` units of 0,1. 
       * A simple `quantum circuit` is a collection of `qubits` and a list of instructions that act on those qubits.  In this section we learn `Qiskit` which is a software development kit created by `IBM` for working with quantum computers at the circuit, pulse, and algorithm levels. It provides tools for creating and manipulating quantum programs and **running them on prototype quantum devices in IBM Quantum Experience or on simulators on a local computer**.
-   8. [c++](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/c++){:target="_blank"}
+   9. [c++](https://github.com/anferivera/Fisica_Computacional_1/tree/main/Sesiones/c++){:target="_blank"}
       * (**c++**) lenguaje is a programming language designed in 1979 by Bjarne Stroustrup. C++ is a compiled, general-purpose programming language designed as an extension of the C language with support for object-oriented programming.It is known for its high performance, speed, and detailed control of hardware and memory, making it ideal for operating systems, video games, and critical software. 
 
 ## Laboratorios 

@@ -38,6 +38,8 @@ Tercer curso computacional en el pregrado de física de la UdeA.
          $$-\dfrac{\hbar^2}{2 m}\nabla^2 \Psi(\vec{r},t) + V\Psi(\vec{r},t) = i\dfrac{\partial}{\partial t}\Psi(\vec{r},t)$$
       
       6. La ecuación de **Navier Stokes**
+     
+         $$\rho\bigg(\dfrac{\partial \nu}{\partial t}+\nu\cdot\nabla \nu\bigg)=-\nabla p +\mu\nabla^2\nu + f$$
        
 2. Abordamos la Física computacional del Análisis de Fourier
 

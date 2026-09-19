@@ -12,36 +12,38 @@ has_children: false
 
 # Física computacional 1
 
+Tercer curso computacional en el pregrado de física de la Universidad de Antioquia UdeA. 
 [Repositorio GitHub.](https://github.com/anferivera/Fisica_Computacional_1/tree/main){:target="_blank"}
-Tercer curso computacional en el pregrado de física de la UdeA. 
 
-   1. En este curso abordamos una serie de técnicas numéricas para resolver algunas          Ecuaciones Diferenciales Parciales (EDP) de la física (física matemática) con condiciones de frontera. Por ejemplo:
+CONTENIDO:
+
+   1. Técnicas numéricas para resolver algunas Ecuaciones Diferenciales Parciales (EDP) de la física con condiciones de frontera. Por ejemplo:
       
-      1. La ecuación de **Laplace**
+      1. La ecuación de **Laplace** en *electromagnetismo*
       
          $$\nabla^2 u(\vec{r})=0$$
       
-      2. La ecuación de **Poisson**
+      2. La ecuación de **Poisson** en *electromagnetismo y gravedad*
      
          $$\nabla^2 u(\vec{r})=-\dfrac{\rho(\vec{r})}{\epsilon}$$
       
-      3. La ecuación de **difusión**
+      3. La ecuación de **difusión** en *termodinámica*
 
          $$\nabla^2 u(\vec{r},t)=\dfrac{1}{\alpha}\dfrac{\partial}{\partial t}u(\vec{r},t)$$
       
-      4. La ecuación de **Onda**
+      4. La ecuación de **Onda** en *óptica*
       
          $$\nabla^2 u(\vec{r},t)=\dfrac{1}{v^2}\dfrac{\partial^2}{\partial t^2}u(\vec{r},t)$$
    
-      5. La ecuación de **Schrödinger**
+      5. La ecuación de **Schrödinger** en *mecánica cuántica*
       
          $$-\dfrac{\hbar^2}{2 m}\nabla^2 \Psi(\vec{r},t) + V\Psi(\vec{r},t) = i\dfrac{\partial}{\partial t}\Psi(\vec{r},t)$$
       
-      6. La ecuación de **Navier Stokes**
+      6. La ecuación de **Navier Stokes** en *fluidos*
      
          $$\rho\bigg(\dfrac{\partial \nu}{\partial t}+\nu\cdot\nabla \nu\bigg)=-\nabla p +\mu\nabla^2\nu + f$$
        
-2. Abordamos la Física computacional del Análisis de Fourier
+2. Análisis de Fourier computacional
 
 3. Métodos Montecarlo y Cadenas de Marcov
 
